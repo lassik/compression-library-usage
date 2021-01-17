@@ -1,0 +1,12 @@
+Minimum viable example of how to use the following C libraries:
+
+- bzip2
+- zlib (gzip format)
+- lz4 (frame format)
+- lzma
+- zstd
+
+If you adopt some of this code for your program, the portion you copy
+is probably too trivial to fall under copyright protection, so as far
+as I'm concerned there's no need to worry about license notices. The
+ISC license if included in this repo just in case.
